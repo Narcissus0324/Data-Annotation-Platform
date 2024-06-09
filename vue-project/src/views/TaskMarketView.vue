@@ -148,5 +148,9 @@ onMounted(() => {
 </script>
 
 <style scoped lang="scss">
+.layout-container {
+  display: flex;
+  height: 100vh;
+}
 
 </style>

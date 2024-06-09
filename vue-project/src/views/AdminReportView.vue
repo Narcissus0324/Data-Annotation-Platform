@@ -242,6 +242,11 @@ function handleReportFailure(subtask) {
 </script>
 
 <style scoped lang="scss">
+.layout-container {
+  display: flex;
+  height: 100vh;
+}
+
 .task-actions {
   display: flex;
   justify-content: center;

@@ -273,19 +273,19 @@ const disabledDate = (date) => {
 </script>
 
 <style scoped>
-.el-card {
-  box-shadow: none !important;
-}
 
 .layout-container {
   background-image: url('@/assets/bkground.jpg');
   background-size: cover;
   background-position: center;
+  display: flex;
+  height: 100vh;
 }
 .el-card {
   background-color: rgba(255, 255, 255, 0.3);
   border: none;
-  width: 60%;
+  width: 65%;
+  box-shadow: none !important;
 }
 
 </style>

@@ -145,6 +145,7 @@ const carouselChange = (cur) => {
   font-size: 20px;
 }
 
+
 .radio-area {
   margin-bottom: 20px;
 }
@@ -176,8 +177,9 @@ const carouselChange = (cur) => {
 }
 
 
+
 .layout-container {
-  height: 100%;
+  height: 100vh;
   background-image: url('@/assets/bkground.jpg');
   background-size: cover;
   background-position: center;

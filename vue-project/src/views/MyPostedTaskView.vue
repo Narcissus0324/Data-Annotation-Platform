@@ -315,6 +315,11 @@ const checkApprovalStatus = (status) => {
 .task-actions {
   display: flex;
   justify-content: center;
-  margin-top: 20px; /* 可根据需要添加上边距 */
+  margin-top: 20px;
+}
+
+.layout-container {
+  display: flex;
+  height: 100vh;
 }
 </style>
