@@ -7,7 +7,7 @@ if __name__ == '__main__':
     #views="post_task/"
     #file_path='C://Users//woczgl//Desktop//test.csv'
     #params = {
-    #    'publisher': "momo",
+    #    'publisher': "momm",
     #    'task_name': "第5个任务",
     #    'task_description': "没有",
     #    'question_type': "填空题",
@@ -38,17 +38,23 @@ if __name__ == '__main__':
     #}
     #views="log_up/"
     #params={
-    #    'username':'momm',
-    #    'password':'1234567',
-    #    'email':'2842859528@qq.com',
+    #    'username':'monn',
+    #    'password':'1234556867',
+    #    'email':'2842859998@qq.com',
     #    'type':'logUp'
     #}
-    views="log_in/"
+    #views="log_in/"
+    #params={
+    #    'username':'momm',
+    #    'password':'1234567',
+    #}
+    views="update_subtask_receiver/"
     params={
-        'username':'momm',
-        'password':'1234567',
+        'task_id':1,
+        'receiver':'monn',
+        'subtask_index':1
     }
-    response = requests.get(url + views,params=params)
+    response = requests.post(url + views,data=params)
 
     try:
         json_data = response.json()

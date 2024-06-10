@@ -1,14 +1,219 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="fbf23b56-48ca-4d6a-b39b-6913c0a3bfd3" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/djangoProject5.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject5/media/task_materials/撒答132024_06_03_13_57_01/cat_dog_small/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject5/media/task_materials/撒答132024_06_03_13_57_01/cat_dog_small/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject5/media/task_materials/撒答132024_06_03_13_57_01/cat_dog_small/11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject5/media/task_materials/撒答132024_06_03_13_57_01/cat_dog_small/12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject5/media/task_materials/撒答132024_06_03_13_57_01/cat_dog_small/13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject5/media/task_materials/撒答132024_06_03_13_57_01/cat_dog_small/14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject5/media/task_materials/撒答132024_06_03_13_57_01/cat_dog_small/15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject5/media/task_materials/撒答132024_06_03_13_57_01/cat_dog_small/16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject5/media/task_materials/撒答132024_06_03_13_57_01/cat_dog_small/17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject5/media/task_materials/撒答132024_06_03_13_57_01/cat_dog_small/18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject5/media/task_materials/撒答132024_06_03_13_57_01/cat_dog_small/19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject5/media/task_materials/撒答132024_06_03_13_57_01/cat_dog_small/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject5/media/task_materials/撒答132024_06_03_13_57_01/cat_dog_small/20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject5/media/task_materials/撒答132024_06_03_13_57_01/cat_dog_small/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject5/media/task_materials/撒答132024_06_03_13_57_01/cat_dog_small/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject5/media/task_materials/撒答132024_06_03_13_57_01/cat_dog_small/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject5/media/task_materials/撒答132024_06_03_13_57_01/cat_dog_small/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject5/media/task_materials/撒答132024_06_03_13_57_01/cat_dog_small/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject5/media/task_materials/撒答132024_06_03_13_57_01/cat_dog_small/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject5/media/task_materials/撒答132024_06_03_13_57_01/cat_dog_small/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject5/media/task_materials/法大师傅2024_06_03_13_48_53/text文本.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject5/media/task_materials/阿松大2024_06_03_13_55_26/├¿╣╖╩²╛▌╝»_╨í/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject5/media/task_materials/阿松大2024_06_03_13_55_26/├¿╣╖╩²╛▌╝»_╨í/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject5/media/task_materials/阿松大2024_06_03_13_55_26/├¿╣╖╩²╛▌╝»_╨í/11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject5/media/task_materials/阿松大2024_06_03_13_55_26/├¿╣╖╩²╛▌╝»_╨í/12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject5/media/task_materials/阿松大2024_06_03_13_55_26/├¿╣╖╩²╛▌╝»_╨í/13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject5/media/task_materials/阿松大2024_06_03_13_55_26/├¿╣╖╩²╛▌╝»_╨í/14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject5/media/task_materials/阿松大2024_06_03_13_55_26/├¿╣╖╩²╛▌╝»_╨í/15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject5/media/task_materials/阿松大2024_06_03_13_55_26/├¿╣╖╩²╛▌╝»_╨í/16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject5/media/task_materials/阿松大2024_06_03_13_55_26/├¿╣╖╩²╛▌╝»_╨í/17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject5/media/task_materials/阿松大2024_06_03_13_55_26/├¿╣╖╩²╛▌╝»_╨í/18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject5/media/task_materials/阿松大2024_06_03_13_55_26/├¿╣╖╩²╛▌╝»_╨í/19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject5/media/task_materials/阿松大2024_06_03_13_55_26/├¿╣╖╩²╛▌╝»_╨í/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject5/media/task_materials/阿松大2024_06_03_13_55_26/├¿╣╖╩²╛▌╝»_╨í/20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject5/media/task_materials/阿松大2024_06_03_13_55_26/├¿╣╖╩²╛▌╝»_╨í/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject5/media/task_materials/阿松大2024_06_03_13_55_26/├¿╣╖╩²╛▌╝»_╨í/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject5/media/task_materials/阿松大2024_06_03_13_55_26/├¿╣╖╩²╛▌╝»_╨í/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject5/media/task_materials/阿松大2024_06_03_13_55_26/├¿╣╖╩²╛▌╝»_╨í/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject5/media/task_materials/阿松大2024_06_03_13_55_26/├¿╣╖╩²╛▌╝»_╨í/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject5/media/task_materials/阿松大2024_06_03_13_55_26/├¿╣╖╩²╛▌╝»_╨í/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject5/media/task_materials/阿松大2024_06_03_13_55_26/├¿╣╖╩²╛▌╝»_╨í/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject5/media/task_materials/阿松大345342024_06_03_13_55_40/cat_dog_small/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject5/media/task_materials/阿松大345342024_06_03_13_55_40/cat_dog_small/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject5/media/task_materials/阿松大345342024_06_03_13_55_40/cat_dog_small/11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject5/media/task_materials/阿松大345342024_06_03_13_55_40/cat_dog_small/12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject5/media/task_materials/阿松大345342024_06_03_13_55_40/cat_dog_small/13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject5/media/task_materials/阿松大345342024_06_03_13_55_40/cat_dog_small/14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject5/media/task_materials/阿松大345342024_06_03_13_55_40/cat_dog_small/15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject5/media/task_materials/阿松大345342024_06_03_13_55_40/cat_dog_small/16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject5/media/task_materials/阿松大345342024_06_03_13_55_40/cat_dog_small/17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject5/media/task_materials/阿松大345342024_06_03_13_55_40/cat_dog_small/18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject5/media/task_materials/阿松大345342024_06_03_13_55_40/cat_dog_small/19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject5/media/task_materials/阿松大345342024_06_03_13_55_40/cat_dog_small/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject5/media/task_materials/阿松大345342024_06_03_13_55_40/cat_dog_small/20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject5/media/task_materials/阿松大345342024_06_03_13_55_40/cat_dog_small/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject5/media/task_materials/阿松大345342024_06_03_13_55_40/cat_dog_small/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject5/media/task_materials/阿松大345342024_06_03_13_55_40/cat_dog_small/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject5/media/task_materials/阿松大345342024_06_03_13_55_40/cat_dog_small/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject5/media/task_materials/阿松大345342024_06_03_13_55_40/cat_dog_small/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject5/media/task_materials/阿松大345342024_06_03_13_55_40/cat_dog_small/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject5/media/task_materials/阿松大345342024_06_03_13_55_40/cat_dog_small/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/中文数据集测试2024_06_05_11_56_13/├¿╣╖╩²╛▌╝»_╨í/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/中文数据集测试2024_06_05_11_56_13/├¿╣╖╩²╛▌╝»_╨í/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/中文数据集测试2024_06_05_11_56_13/├¿╣╖╩²╛▌╝»_╨í/11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/中文数据集测试2024_06_05_11_56_13/├¿╣╖╩²╛▌╝»_╨í/12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/中文数据集测试2024_06_05_11_56_13/├¿╣╖╩²╛▌╝»_╨í/13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/中文数据集测试2024_06_05_11_56_13/├¿╣╖╩²╛▌╝»_╨í/14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/中文数据集测试2024_06_05_11_56_13/├¿╣╖╩²╛▌╝»_╨í/15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/中文数据集测试2024_06_05_11_56_13/├¿╣╖╩²╛▌╝»_╨í/16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/中文数据集测试2024_06_05_11_56_13/├¿╣╖╩²╛▌╝»_╨í/17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/中文数据集测试2024_06_05_11_56_13/├¿╣╖╩²╛▌╝»_╨í/18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/中文数据集测试2024_06_05_11_56_13/├¿╣╖╩²╛▌╝»_╨í/19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/中文数据集测试2024_06_05_11_56_13/├¿╣╖╩²╛▌╝»_╨í/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/中文数据集测试2024_06_05_11_56_13/├¿╣╖╩²╛▌╝»_╨í/20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/中文数据集测试2024_06_05_11_56_13/├¿╣╖╩²╛▌╝»_╨í/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/中文数据集测试2024_06_05_11_56_13/├¿╣╖╩²╛▌╝»_╨í/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/中文数据集测试2024_06_05_11_56_13/├¿╣╖╩²╛▌╝»_╨í/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/中文数据集测试2024_06_05_11_56_13/├¿╣╖╩²╛▌╝»_╨í/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/中文数据集测试2024_06_05_11_56_13/├¿╣╖╩²╛▌╝»_╨í/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/中文数据集测试2024_06_05_11_56_13/├¿╣╖╩²╛▌╝»_╨í/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/中文数据集测试2024_06_05_11_56_13/├¿╣╖╩²╛▌╝»_╨í/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片单选测试2024_06_05_11_54_10/cat_dog_small/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片单选测试2024_06_05_11_54_10/cat_dog_small/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片单选测试2024_06_05_11_54_10/cat_dog_small/11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片单选测试2024_06_05_11_54_10/cat_dog_small/12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片单选测试2024_06_05_11_54_10/cat_dog_small/13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片单选测试2024_06_05_11_54_10/cat_dog_small/14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片单选测试2024_06_05_11_54_10/cat_dog_small/15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片单选测试2024_06_05_11_54_10/cat_dog_small/16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片单选测试2024_06_05_11_54_10/cat_dog_small/17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片单选测试2024_06_05_11_54_10/cat_dog_small/18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片单选测试2024_06_05_11_54_10/cat_dog_small/19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片单选测试2024_06_05_11_54_10/cat_dog_small/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片单选测试2024_06_05_11_54_10/cat_dog_small/20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片单选测试2024_06_05_11_54_10/cat_dog_small/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片单选测试2024_06_05_11_54_10/cat_dog_small/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片单选测试2024_06_05_11_54_10/cat_dog_small/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片单选测试2024_06_05_11_54_10/cat_dog_small/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片单选测试2024_06_05_11_54_10/cat_dog_small/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片单选测试2024_06_05_11_54_10/cat_dog_small/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片单选测试2024_06_05_11_54_10/cat_dog_small/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片填空测试2024_06_05_11_55_08/cat_dog_small/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片填空测试2024_06_05_11_55_08/cat_dog_small/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片填空测试2024_06_05_11_55_08/cat_dog_small/11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片填空测试2024_06_05_11_55_08/cat_dog_small/12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片填空测试2024_06_05_11_55_08/cat_dog_small/13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片填空测试2024_06_05_11_55_08/cat_dog_small/14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片填空测试2024_06_05_11_55_08/cat_dog_small/15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片填空测试2024_06_05_11_55_08/cat_dog_small/16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片填空测试2024_06_05_11_55_08/cat_dog_small/17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片填空测试2024_06_05_11_55_08/cat_dog_small/18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片填空测试2024_06_05_11_55_08/cat_dog_small/19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片填空测试2024_06_05_11_55_08/cat_dog_small/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片填空测试2024_06_05_11_55_08/cat_dog_small/20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片填空测试2024_06_05_11_55_08/cat_dog_small/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片填空测试2024_06_05_11_55_08/cat_dog_small/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片填空测试2024_06_05_11_55_08/cat_dog_small/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片填空测试2024_06_05_11_55_08/cat_dog_small/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片填空测试2024_06_05_11_55_08/cat_dog_small/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片填空测试2024_06_05_11_55_08/cat_dog_small/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片填空测试2024_06_05_11_55_08/cat_dog_small/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片多选测试2024_06_05_11_54_47/cat_dog_small/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片多选测试2024_06_05_11_54_47/cat_dog_small/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片多选测试2024_06_05_11_54_47/cat_dog_small/11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片多选测试2024_06_05_11_54_47/cat_dog_small/12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片多选测试2024_06_05_11_54_47/cat_dog_small/13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片多选测试2024_06_05_11_54_47/cat_dog_small/14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片多选测试2024_06_05_11_54_47/cat_dog_small/15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片多选测试2024_06_05_11_54_47/cat_dog_small/16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片多选测试2024_06_05_11_54_47/cat_dog_small/17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片多选测试2024_06_05_11_54_47/cat_dog_small/18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片多选测试2024_06_05_11_54_47/cat_dog_small/19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片多选测试2024_06_05_11_54_47/cat_dog_small/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片多选测试2024_06_05_11_54_47/cat_dog_small/20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片多选测试2024_06_05_11_54_47/cat_dog_small/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片多选测试2024_06_05_11_54_47/cat_dog_small/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片多选测试2024_06_05_11_54_47/cat_dog_small/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片多选测试2024_06_05_11_54_47/cat_dog_small/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片多选测试2024_06_05_11_54_47/cat_dog_small/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片多选测试2024_06_05_11_54_47/cat_dog_small/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片多选测试2024_06_05_11_54_47/cat_dog_small/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片框图测hi2024_06_05_11_55_23/cat_dog_small/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片框图测hi2024_06_05_11_55_23/cat_dog_small/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片框图测hi2024_06_05_11_55_23/cat_dog_small/11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片框图测hi2024_06_05_11_55_23/cat_dog_small/12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片框图测hi2024_06_05_11_55_23/cat_dog_small/13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片框图测hi2024_06_05_11_55_23/cat_dog_small/14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片框图测hi2024_06_05_11_55_23/cat_dog_small/15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片框图测hi2024_06_05_11_55_23/cat_dog_small/16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片框图测hi2024_06_05_11_55_23/cat_dog_small/17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片框图测hi2024_06_05_11_55_23/cat_dog_small/18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片框图测hi2024_06_05_11_55_23/cat_dog_small/19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片框图测hi2024_06_05_11_55_23/cat_dog_small/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片框图测hi2024_06_05_11_55_23/cat_dog_small/20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片框图测hi2024_06_05_11_55_23/cat_dog_small/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片框图测hi2024_06_05_11_55_23/cat_dog_small/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片框图测hi2024_06_05_11_55_23/cat_dog_small/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片框图测hi2024_06_05_11_55_23/cat_dog_small/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片框图测hi2024_06_05_11_55_23/cat_dog_small/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片框图测hi2024_06_05_11_55_23/cat_dog_small/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/图片框图测hi2024_06_05_11_55_23/cat_dog_small/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/在2024_06_05_12_40_06/text文本.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/多选题测试安定2024_06_05_10_40_57/cat_dog_small/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/多选题测试安定2024_06_05_10_40_57/cat_dog_small/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/多选题测试安定2024_06_05_10_40_57/cat_dog_small/11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/多选题测试安定2024_06_05_10_40_57/cat_dog_small/12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/多选题测试安定2024_06_05_10_40_57/cat_dog_small/13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/多选题测试安定2024_06_05_10_40_57/cat_dog_small/14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/多选题测试安定2024_06_05_10_40_57/cat_dog_small/15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/多选题测试安定2024_06_05_10_40_57/cat_dog_small/16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/多选题测试安定2024_06_05_10_40_57/cat_dog_small/17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/多选题测试安定2024_06_05_10_40_57/cat_dog_small/18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/多选题测试安定2024_06_05_10_40_57/cat_dog_small/19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/多选题测试安定2024_06_05_10_40_57/cat_dog_small/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/多选题测试安定2024_06_05_10_40_57/cat_dog_small/20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/多选题测试安定2024_06_05_10_40_57/cat_dog_small/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/多选题测试安定2024_06_05_10_40_57/cat_dog_small/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/多选题测试安定2024_06_05_10_40_57/cat_dog_small/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/多选题测试安定2024_06_05_10_40_57/cat_dog_small/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/多选题测试安定2024_06_05_10_40_57/cat_dog_small/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/多选题测试安定2024_06_05_10_40_57/cat_dog_small/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/多选题测试安定2024_06_05_10_40_57/cat_dog_small/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/文本单选测试2024_06_05_11_53_16/text文本.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/文本填空测试2024_06_05_11_52_49/text文本.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/文本多选测试2024_06_05_11_53_43/text文本.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/矿体阿三的12024_06_05_10_58_51/cat_dog_small/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/矿体阿三的12024_06_05_10_58_51/cat_dog_small/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/矿体阿三的12024_06_05_10_58_51/cat_dog_small/11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/矿体阿三的12024_06_05_10_58_51/cat_dog_small/12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/矿体阿三的12024_06_05_10_58_51/cat_dog_small/13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/矿体阿三的12024_06_05_10_58_51/cat_dog_small/14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/矿体阿三的12024_06_05_10_58_51/cat_dog_small/15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/矿体阿三的12024_06_05_10_58_51/cat_dog_small/16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/矿体阿三的12024_06_05_10_58_51/cat_dog_small/17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/矿体阿三的12024_06_05_10_58_51/cat_dog_small/18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/矿体阿三的12024_06_05_10_58_51/cat_dog_small/19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/矿体阿三的12024_06_05_10_58_51/cat_dog_small/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/矿体阿三的12024_06_05_10_58_51/cat_dog_small/20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/矿体阿三的12024_06_05_10_58_51/cat_dog_small/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/矿体阿三的12024_06_05_10_58_51/cat_dog_small/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/矿体阿三的12024_06_05_10_58_51/cat_dog_small/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/矿体阿三的12024_06_05_10_58_51/cat_dog_small/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/矿体阿三的12024_06_05_10_58_51/cat_dog_small/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/矿体阿三的12024_06_05_10_58_51/cat_dog_small/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/矿体阿三的12024_06_05_10_58_51/cat_dog_small/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/task_materials/萨芬2024_06_05_12_42_27/text文本.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/request_script.py" beforeDir="false" afterPath="$PROJECT_DIR$/request_script.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,10 +223,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2haJSVip08OybkdUz7FEgKOx9Ru" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -30,17 +235,45 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/11917/Desktop/大三下/信息系统/file",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/woczgl/Desktop/Data-Annotation-Platform/djangoProject5",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.request_script">
+    <configuration name="request_script" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="djangoProject5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/request_script.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="djangoProject5" type="Python.DjangoServer" factoryName="Django server">
       <module name="djangoProject5" />
-      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -62,6 +295,11 @@
       <option name="customRunCommand" value="" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.request_script" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -80,10 +318,14 @@
       <option name="presentableId" value="Default" />
       <updated>1717826256528</updated>
       <workItem from="1717826258170" duration="19000" />
+      <workItem from="1718030767741" duration="1102000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/djangoProject5$request_script.coverage" NAME="request_script 覆盖结果" MODIFIED="1718031871833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
